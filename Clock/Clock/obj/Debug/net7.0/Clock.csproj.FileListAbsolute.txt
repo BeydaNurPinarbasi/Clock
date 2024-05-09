@@ -1,0 +1,14 @@
+C:\Users\beyda\OneDrive\Masaüstü\aspnet-mvc-cms\Clock\Clock\bin\Debug\net7.0\Clock.exe
+C:\Users\beyda\OneDrive\Masaüstü\aspnet-mvc-cms\Clock\Clock\bin\Debug\net7.0\Clock.deps.json
+C:\Users\beyda\OneDrive\Masaüstü\aspnet-mvc-cms\Clock\Clock\bin\Debug\net7.0\Clock.runtimeconfig.json
+C:\Users\beyda\OneDrive\Masaüstü\aspnet-mvc-cms\Clock\Clock\bin\Debug\net7.0\Clock.dll
+C:\Users\beyda\OneDrive\Masaüstü\aspnet-mvc-cms\Clock\Clock\bin\Debug\net7.0\Clock.pdb
+C:\Users\beyda\OneDrive\Masaüstü\aspnet-mvc-cms\Clock\Clock\obj\Debug\net7.0\Clock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beyda\OneDrive\Masaüstü\aspnet-mvc-cms\Clock\Clock\obj\Debug\net7.0\Clock.AssemblyInfoInputs.cache
+C:\Users\beyda\OneDrive\Masaüstü\aspnet-mvc-cms\Clock\Clock\obj\Debug\net7.0\Clock.AssemblyInfo.cs
+C:\Users\beyda\OneDrive\Masaüstü\aspnet-mvc-cms\Clock\Clock\obj\Debug\net7.0\Clock.csproj.CoreCompileInputs.cache
+C:\Users\beyda\OneDrive\Masaüstü\aspnet-mvc-cms\Clock\Clock\obj\Debug\net7.0\Clock.dll
+C:\Users\beyda\OneDrive\Masaüstü\aspnet-mvc-cms\Clock\Clock\obj\Debug\net7.0\refint\Clock.dll
+C:\Users\beyda\OneDrive\Masaüstü\aspnet-mvc-cms\Clock\Clock\obj\Debug\net7.0\Clock.pdb
+C:\Users\beyda\OneDrive\Masaüstü\aspnet-mvc-cms\Clock\Clock\obj\Debug\net7.0\Clock.genruntimeconfig.cache
+C:\Users\beyda\OneDrive\Masaüstü\aspnet-mvc-cms\Clock\Clock\obj\Debug\net7.0\ref\Clock.dll
